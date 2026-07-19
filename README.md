@@ -1,11 +1,11 @@
 # The Assembler, Linker & Binary Formats Mastery Guide
 
-> A single, deep, diagram-driven reference for how source code becomes a running
+> A single, deep reference for how source code becomes a running
 > program: the assembler, the linker, the loader, and the on-disk formats
 > (ELF, DWARF, and friends) that glue everything together.
 >
 > Written for C and **C++ engineers who want expert-level mechanical detail** —
-> not hand-waving. Every concept is grounded in bytes, ASCII diagrams, and
+> not hand-waving. Every concept is grounded in bytes, and
 > reproducible command-line experiments.
 
 ---
